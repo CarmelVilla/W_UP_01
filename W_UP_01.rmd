@@ -72,7 +72,7 @@ We have found the mean to be 17 for line players and 50 for skill players.We hav
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-The t test show that there is a difference in average pushups for line players and skill players the difference is 33 push ups more than line players.The 95 percent of the time the skill players do between 20 and 45 more push ups in two minutes than a line player
+The t test show that there is a difference in average pushups for line players and skill players the difference is 33 push ups more than line players.95 percent of the time the skill players do between 20 and 45 more push ups in two minutes than a line player
 
 
 # Discussion and Conclusion
