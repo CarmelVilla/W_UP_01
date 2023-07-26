@@ -72,10 +72,11 @@ We have found the mean to be 17 for line players and 50 for skill players.We hav
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-The t test show that there is a difference in average pushups for line players and skill players the difference is 33 push ups more than line players.95 percent of the time the skill players do between 20 and 45 more push ups in two minutes than a line player
+The t test show that there is a difference in average pushups for line players and skill players the difference is 33 push ups more than line players.95 percent of the time the skill players do between 20 and 45 more push ups in two minutes than a line player.the P value i .000009421 this is a small number which leads us to reject the Null hypothesis.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The original question is who does more push ups on average skill players or line players. Is there a statistical difference? We have found there is a difference on push ups done per line and skill players. The difference is about 95 percent of the time skill players do 20 to 45 push ups more than a line player.The p value is so small which leads us to reject the null hypothesis. We have found there is a statistical difference.
